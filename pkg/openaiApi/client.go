@@ -1,0 +1,1 @@
+// Setup and authenticate OpenAI API client

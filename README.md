@@ -27,6 +27,9 @@ Further Steps
 Follow the project-specific instructions for setting up OAuth credentials and other configurations.
 
 
+# Setting Up OAuth for goGroupDigest
+To use goGroupDigest with your own Gmail account, you need to set up OAuth credentials:
+
 Google Cloud Project:
 
 Go to the Google Cloud Console.

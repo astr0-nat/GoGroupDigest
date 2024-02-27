@@ -10,7 +10,7 @@ import (
 	"golang.org/x/oauth2/google"
 	"google.golang.org/api/gmail/v1"
 
-// GmailClient struct holds the necessary details fo the Gmail client
+// GmailClient struct holds the necessary details for the Gmail client
 type GmailClient struct {
 	service *gmail.Service
 }

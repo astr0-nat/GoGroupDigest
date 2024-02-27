@@ -4,7 +4,7 @@ GoGroupDigest automates email digest creation using Go, Gmail API, and OpenAI's 
 Setting Up OAuth for goGroupDigest
 To use goGroupDigest with your own Gmail account, you need to set up OAuth credentials:
 
-Getting Started with goGroupDigest
+# Getting Started with goGroupDigest
 Prerequisites
 Install Go: Download the latest version of Go from the official Go website. Follow the installation instructions for your operating system.
 Setting Up a Workspace
